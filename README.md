@@ -6,7 +6,7 @@ no.absen :08<br>
 ----------------------------------
 
 Latihan 1 : <br>
-importScripts https://github.com/istianaa/GUI/blob/master/lat1c.PNG<br>
+![alt text](https://github.com/istianaa/GUI/blob/master/lat1c.PNG)<br>
 
 Latihan 2 : <br>
 https://github.com/istianaa/GUI/blob/master/lat2c.PNG<br>

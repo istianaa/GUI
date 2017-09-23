@@ -15,7 +15,7 @@ Latihan 3 : <br>
 ![alt text](https://github.com/istianaa/GUI/blob/master/lat3f.PNG)<br>
 
 Latihan 4 : <br>
-![alt text](https://github.com/istianaa/GUI/blob/master/lat4e.PNG)<br>
+![alt text](https://github.com/istianaa/GUI/blob/master/lat4c.PNG)<br>
 
 Quis 1 : <br>
 ![alt text](https://github.com/istianaa/GUI/blob/master/quis1c.PNG)<br>
